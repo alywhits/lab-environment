@@ -1,7 +1,7 @@
 # lab-environment
-Lab environment setup 
+Lab environment setup
 Consists of:
-2 app servers 
+2 app servers
 1 db server
 
-For use with Ansible For DevOPS book by Jeff Geerling
+For use with Ansible For DevOPS book by Jeff Geerling leanpub.com/ansible_for_devops
